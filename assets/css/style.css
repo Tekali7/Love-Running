@@ -190,6 +190,16 @@ margin: 5px 0;
     color: #fafafa;
 }
 
+/*Gallery page*/
+#photos img{
+    width: 100%;
+    line-height: 1em;
+}
+
+#photos{
+    line-height: 0;
+}
+
 /*footer*/
 #social-networks{
     text-align: center;
